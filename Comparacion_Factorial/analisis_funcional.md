@@ -31,6 +31,8 @@ factorialTR n = aux n 1
   where
     aux 0 acc = acc
     aux n acc = aux (n-1) (n * acc)
+```
+
 ## 3. Evaluación Perezosa (Lazy Evaluation)
 
 **Definición:**  
@@ -44,7 +46,7 @@ Las expresiones se evalúan solo cuando son realmente necesarias.
 ```haskell
 factorials = 1 : zipWith (*) [1..] factorials
 factorial n = factorials !! n
-
+```
 ## 4. Inmutabilidad
 
 **Definición:**  
@@ -62,6 +64,7 @@ factorialMemo = (map fac [0..] !!)
   where 
     fac 0 = 1
     fac n = n * factorialMemo (n-1)
+```
 ## Conclusiones
 
 El enfoque funcional ofrece ventajas significativas:
