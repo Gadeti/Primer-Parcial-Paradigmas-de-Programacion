@@ -11,7 +11,8 @@ Cada uno de los puntos del parcial se encuentra organizado en directorios indepe
 ├── Punto_1/       # Comparacion_Factorial
 ├── Punto_2/       # Comparación_Paradigmas
 ├── Punto_3/       # Registros_Estudiantes
-└── README.md      # Archivo con la descripción general del repositorio.
+└── README.md      # El objetivo de este repositorio es ofrecer de manera organizada y estructurada los enunciados y materiales correspondientes al Primer Parcial de la asignatura Paradigmas de Programación, correspondiente al primer corte del periodo 2025-1. Aquí se agrupan tres puntos de evaluación: el cálculo del factorial utilizando enfoques iterativo y recursivo en C; la comparación de paradigmas de programación mediante la ordenación de una lista de estudiantes por sus calificaciones y, en caso de empate, por orden alfabético; y la gestión dinámica junto con la optimización de memoria para registros de estudiantes, enfatizando el uso eficiente de los recursos en sistemas con limitaciones de memoria. Esta organización busca facilitar la consulta, el desarrollo colaborativo y la implementación de soluciones de calidad.
+
 ~~~
 
 ## Descripción de los puntos
