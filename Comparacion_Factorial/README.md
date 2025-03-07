@@ -31,16 +31,16 @@ Este repositorio contiene un ejercicio práctico en el que se implementa el cál
 
 ## Compilación y Ejecución
 
-# Compilar la versión iterativa
+**Compilar la versión iterativa**
 gcc -o factorial_iterativo factorial_iterativo.c
 
-# Compilar la versión recursiva
+**Compilar la versión recursiva**
 gcc -o factorial_recursivo factorial_recursivo.c
 
-# Ejecutar la versión iterativa
+**Ejecutar la versión iterativa**
 ./factorial_iterativo
 
-# Ejecutar la versión recursiva
+**Ejecutar la versión recursiva**
 ./factorial_recursivo
 
 ## Conclusiones Principales
