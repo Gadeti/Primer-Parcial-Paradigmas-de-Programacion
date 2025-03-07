@@ -14,7 +14,7 @@
   ## Implementaciones
 
   **Enfoque Iterativo:**
-  ```c
+  
   unsigned long long factorial_iterativo(int n) {
       unsigned long long resultado = 1;
       for (int i = 1; i <= n; i++) {
@@ -24,7 +24,7 @@
   }
 
  **Enfoque Recursivo:**
- ```c
+ 
 unsigned long long factorial_recursivo(int n) {
     if (n <= 1) return 1;
     return n * factorial_recursivo(n - 1);
