@@ -6,10 +6,10 @@ Este repositorio contiene los enunciados al Primer Parcial de la asignatura Para
 
 ~~~
 /
-├── Punto_1/       # Enunciado al primer punto
-├── Punto_2/       # Enunciado al segundo punto
-├── Punto_3/       # Enunciado al tercer punto
-└── README.md      # Descripción general del repositorio
+├── Punto_1/       # Comparacion_Factorial
+├── Punto_2/       # Comparación_Paradigmas
+├── Punto_3/       # Registros_Estudiantes
+└── README.md      # Este repositorio contiene los enunciados al Primer Parcial de la asignatura Paradigmas de Programación, correspondiente al primer corte del periodo 2025-1. Cada uno de los puntos del parcial se encuentra organizado en directorios independientes, con su respectiva documentación.
 ~~~
 
 ## Descripción de los puntos
