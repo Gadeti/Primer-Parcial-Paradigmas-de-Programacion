@@ -1,4 +1,4 @@
-# Primer Parcial - Paradigmas de Programación (2025-1)
+# Primer Parcial - Paradigmas de Programación
 
 Este repositorio contiene los enunciados al Primer Parcial de la asignatura Paradigmas de Programación, correspondiente al primer corte del periodo 2025-1.
 
