@@ -15,7 +15,7 @@ Este repositorio contiene un ejercicio práctico en el que se implementa el cál
 /
 ├── factorial_iterativo.c        # Implementación iterativa en C
 ├── factorial_recursivo.c        # Implementación recursiva en C
-├── informe_comparativo.md       # Comparación de desempeño (tiempo y memoria)
+├── informe_comparativo.md       # Comparación de desempeño
 ├── analisis_funcional.md        # Análisis del paradigma funcional
 └── README.md                     # Enunciado y contexto general
 
