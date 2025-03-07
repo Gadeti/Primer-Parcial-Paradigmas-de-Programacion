@@ -22,11 +22,9 @@
       }
       return resultado;
   }
-Enfoque Recursivo:
 
-c
-Copiar
-Editar
+ **Enfoque Recursivo:**
+ ```c
 unsigned long long factorial_recursivo(int n) {
     if (n <= 1) return 1;
     return n * factorial_recursivo(n - 1);
