@@ -11,14 +11,6 @@ Este repositorio contiene un ejercicio práctico en el que se implementa el cál
 - **Reflexionar** sobre el impacto de adoptar un paradigma funcional para este problema.
 - **Presentar** un análisis argumentado basado en conceptos de programación funcional.
 
-## Estructura del Repositorio
-/
-├── factorial_iterativo.c        # Implementación iterativa en C
-├── factorial_recursivo.c        # Implementación recursiva en C
-├── informe_comparativo.md       # Comparación de desempeño
-├── analisis_funcional.md        # Análisis del paradigma funcional
-└── README.md                     # Enunciado y contexto general
-
 ## Resumen del Contenido
 
 **Implementaciones en C:**
