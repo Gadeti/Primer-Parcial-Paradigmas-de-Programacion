@@ -13,8 +13,8 @@ typedef struct {
 
 // Variables globales
 Estudiante *estudiantes = NULL;
-sizet num_estudiantes = 0;
-sizet memoria_usada = 0;
+size_t num_estudiantes = 0;
+size_t memoria_usada = 0;
 
 // Función para agregar un estudiante
 void agregarEstudiante(char *nombre, char *apellido, unsigned short edad, unsigned int id, float *calificaciones) {
